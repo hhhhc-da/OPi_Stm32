@@ -1,0 +1,15 @@
+.\objects\system_stm32f10x.o: ..\System\system_stm32f10x.c
+.\objects\system_stm32f10x.o: ..\System\stm32f10x.h
+.\objects\system_stm32f10x.o: ..\CORE\core_cm3.h
+.\objects\system_stm32f10x.o: D:\pandownload1\COMPUTER\stm32\CORE\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\system_stm32f10x.o: ..\System\system_stm32f10x.h
+.\objects\system_stm32f10x.o: ..\System\stm32f10x_conf.h
+.\objects\system_stm32f10x.o: ..\FWlib\stm32f10x_exti.h
+.\objects\system_stm32f10x.o: ..\System\stm32f10x.h
+.\objects\system_stm32f10x.o: ..\FWlib\stm32f10x_gpio.h
+.\objects\system_stm32f10x.o: ..\FWlib\stm32f10x_i2c.h
+.\objects\system_stm32f10x.o: ..\FWlib\stm32f10x_rcc.h
+.\objects\system_stm32f10x.o: ..\FWlib\stm32f10x_tim.h
+.\objects\system_stm32f10x.o: ..\FWlib\stm32f10x_usart.h
+.\objects\system_stm32f10x.o: ..\FWlib\stm32f10x_wwdg.h
+.\objects\system_stm32f10x.o: ..\FWlib\misc.h

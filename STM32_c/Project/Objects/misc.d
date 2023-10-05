@@ -1,0 +1,16 @@
+.\objects\misc.o: ..\FWlib\misc.c
+.\objects\misc.o: ..\FWlib\misc.h
+.\objects\misc.o: ..\System\stm32f10x.h
+.\objects\misc.o: ..\CORE\core_cm3.h
+.\objects\misc.o: D:\pandownload1\COMPUTER\stm32\CORE\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\misc.o: ..\System\system_stm32f10x.h
+.\objects\misc.o: ..\System\stm32f10x_conf.h
+.\objects\misc.o: ..\FWlib\stm32f10x_exti.h
+.\objects\misc.o: ..\System\stm32f10x.h
+.\objects\misc.o: ..\FWlib\stm32f10x_gpio.h
+.\objects\misc.o: ..\FWlib\stm32f10x_i2c.h
+.\objects\misc.o: ..\FWlib\stm32f10x_rcc.h
+.\objects\misc.o: ..\FWlib\stm32f10x_tim.h
+.\objects\misc.o: ..\FWlib\stm32f10x_usart.h
+.\objects\misc.o: ..\FWlib\stm32f10x_wwdg.h
+.\objects\misc.o: ..\FWlib\misc.h

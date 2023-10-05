@@ -1,0 +1,1 @@
+g++ CMakeFiles/project.dir/MyProject.cpp.o -o project  -Wl,-rpath,/home/orangepi/File/C++/Project/libxl/lib-aarch64 libxl/lib-aarch64/libxl.so -lwiringPi 

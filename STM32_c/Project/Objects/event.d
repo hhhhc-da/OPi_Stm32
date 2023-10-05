@@ -1,0 +1,17 @@
+.\objects\event.o: ..\USER\Event\Event.c
+.\objects\event.o: ..\USER\Event\Event.h
+.\objects\event.o: ..\System\stm32f10x.h
+.\objects\event.o: ..\CORE\core_cm3.h
+.\objects\event.o: D:\pandownload1\COMPUTER\stm32\CORE\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\event.o: ..\System\system_stm32f10x.h
+.\objects\event.o: ..\System\stm32f10x_conf.h
+.\objects\event.o: ..\FWlib\stm32f10x_exti.h
+.\objects\event.o: ..\System\stm32f10x.h
+.\objects\event.o: ..\FWlib\stm32f10x_gpio.h
+.\objects\event.o: ..\FWlib\stm32f10x_i2c.h
+.\objects\event.o: ..\FWlib\stm32f10x_rcc.h
+.\objects\event.o: ..\FWlib\stm32f10x_tim.h
+.\objects\event.o: ..\FWlib\stm32f10x_usart.h
+.\objects\event.o: ..\FWlib\stm32f10x_wwdg.h
+.\objects\event.o: ..\FWlib\misc.h
+.\objects\event.o: D:\pandownload1\COMPUTER\stm32\CORE\ARM\ARMCC\Bin\..\include\stdlib.h

@@ -1,0 +1,3 @@
+/home/orangepi/File/C++/Project/CMakeFiles/rebuild_cache.dir
+/home/orangepi/File/C++/Project/CMakeFiles/edit_cache.dir
+/home/orangepi/File/C++/Project/CMakeFiles/project.dir

@@ -1,0 +1,17 @@
+.\objects\usart.o: ..\USER\USART1\usart.c
+.\objects\usart.o: ..\USER\USART1\usart.h
+.\objects\usart.o: ..\System\stm32f10x.h
+.\objects\usart.o: ..\CORE\core_cm3.h
+.\objects\usart.o: D:\pandownload1\COMPUTER\stm32\CORE\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\usart.o: ..\System\system_stm32f10x.h
+.\objects\usart.o: ..\System\stm32f10x_conf.h
+.\objects\usart.o: ..\FWlib\stm32f10x_exti.h
+.\objects\usart.o: ..\System\stm32f10x.h
+.\objects\usart.o: ..\FWlib\stm32f10x_gpio.h
+.\objects\usart.o: ..\FWlib\stm32f10x_i2c.h
+.\objects\usart.o: ..\FWlib\stm32f10x_rcc.h
+.\objects\usart.o: ..\FWlib\stm32f10x_tim.h
+.\objects\usart.o: ..\FWlib\stm32f10x_usart.h
+.\objects\usart.o: ..\FWlib\stm32f10x_wwdg.h
+.\objects\usart.o: ..\FWlib\misc.h
+.\objects\usart.o: D:\pandownload1\COMPUTER\stm32\CORE\ARM\ARMCC\Bin\..\include\stdio.h
